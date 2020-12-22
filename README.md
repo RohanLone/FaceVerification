@@ -24,5 +24,7 @@ Your task is to design this image based attendance capturing system using deep l
 ## Requirements
 
 TensorFlow==2.4.0
+
 OpenCV==4.1.2
+
 Haar Cascade XML
