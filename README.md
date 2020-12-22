@@ -21,3 +21,8 @@ Your task is to design this image based attendance capturing system using deep l
                                 The total number of selfies are :  3198
                                 The total number of script(passport) images are :  1221 
         
+## Requirements
+
+TensorFlow==2.4.0
+OpenCV==4.1.2
+Haar Cascade XML
