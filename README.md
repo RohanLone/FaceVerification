@@ -7,8 +7,8 @@ Your task is to design this image based attendance capturing system using deep l
 
 
 
------>  In this project I used Tensorflow libraries to build face verification model, Build a deep neural network from scratch.
-        This model learn information about object categories from one, or only a few, training samples/images. Therefore to learn information, this model requires only one image of a person which can be used for face verification.
+----->  In this project I used Tensorflow library to build face verification model, Build a deep neural network from scratch.
+        This network learn information about object categories from one, or only a few, training samples/images. Therefore to learn information, this network requires only one image of a person which can be used for face verification, this technique is called as One Shot Learning.
         It uses haar cascade to detect the face and crops the face to remove the unwanted noise from the image and then resize it to (96,96).
         
         Object Detection using Haar feature-based cascade classifiers is an effective object detection method proposed by Paul Viola  and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001. It is a machine learning based approach where a cascade function is trained from a lot of positive and negative images. It is then used to detect objects in other images.
